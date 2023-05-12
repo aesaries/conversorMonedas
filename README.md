@@ -4,10 +4,10 @@ Esta aplicación JavaFX permite convertir pesos argentinos a dólar, dólar blue
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/aesaries/conversorMonedas.git`
 2. Abre el proyecto en tu IDE preferido.
 3. Asegúrate de tener las dependencias necesarias en tu proyecto.
-4. Ejecuta la clase `Main.java`.
+4. Ejecuta la clase `MainConversor.java`.
 
 ## Uso
 
@@ -36,5 +36,5 @@ Los valores de conversión se obtienen mediante la API de BlueLytics: https://ap
 
 Este proyecto está bajo la Licencia MIT.
 
-¡Gracias por usar nuestra aplicación!
+¡Gracias por usar mi aplicación!
 
