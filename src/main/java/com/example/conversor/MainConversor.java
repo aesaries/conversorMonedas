@@ -7,6 +7,11 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
+/**
+ * Conversor de Monedas para Challenge ALura
+ * Enzo Valverde
+ */
+
 public class MainConversor extends Application {
     @Override
     public void start(Stage stage) throws IOException {
